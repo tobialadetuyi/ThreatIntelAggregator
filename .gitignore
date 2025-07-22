@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Logs and outputs
+threat_intel.log*
+output.json
+output.csv
+
+# IDE/Editor
+.vscode/
+.idea/
