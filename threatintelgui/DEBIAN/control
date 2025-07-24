@@ -1,0 +1,9 @@
+Package: threatintel-gui
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3, python3-tk, python3-requests, python3-openai
+Maintainer: CyberAegis <you@example.com>
+Description: Threat Intelligence Aggregator GUI
+ A simple GUI tool for aggregating and analyzing threat intel data using AI.
